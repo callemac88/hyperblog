@@ -3,3 +3,5 @@ esta es la edad de Manuel 33
 antes trabajaba en varios proyectos
 
 ahora trabajo en una empresa llamada Forté
+
+y programo para un cliente llamado Cayuse
